@@ -1,0 +1,13 @@
+{
+  "name": "terminaltxt-minimal",
+  "scripts": {
+    "start" : "parcel serve ./src/index.html"
+  },
+  "dependencies": {
+    "terminaltxt": "0.0.4"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.3",
+    "typescript": "^3.4.5"
+  }
+}
